@@ -1,6 +1,6 @@
 # Modern App Overlay for GNOME
 
-A liquid glass-style app launcher for **Pop!_OS** (and GNOME 42+) — no extensions required, no theme managers, no bullshit. Direct edits to the system files that actually control the app tray.
+A Glassmorphism-style app launcher for **Pop!_OS** (and GNOME 42+) — no extensions required, no theme managers, no confusions. Direct edits to the system files that actually control the app tray.
 
 ---
 
